@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JoonasMV
+- 👀 I’m interested in yo mama
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate with yo papa
+- 📫 Call me
