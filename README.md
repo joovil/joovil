@@ -1,4 +1,6 @@
-Hello, my name is Joonas. I'm a second year student in Metropolia. My main programming languages are Java and JavaScript.
+Hello, my name is Joonas. <br>
+Currently a second year student at Metropolia. <br> 
+Main languages are JavaScript and Java. <br>
 <br>
 Here are some of my past projects
 
@@ -21,7 +23,7 @@ Game project made in Unity
 <br>
 
 ## Diner simulator
-Simulator school project
+Project to simulate traffic flow of a diner
 <br>
 <kbd>
   <img src="https://media.discordapp.net/attachments/1017362290447749130/1032201408474263612/unknown.png" width=500px>
