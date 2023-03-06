@@ -17,7 +17,7 @@ Project made for full stack open 22
 An app to track workouts
 <br>
 <kdp>
-  <img src="https://cdn.discordapp.com/attachments/1017362290447749130/1082375455551787149/workout.JPG" width=500px>
+  <img src="https://cdn.discordapp.com/attachments/1017362290447749130/1082375455551787149/workout.JPG" height=500px>
 </kdp>
 <br>
 
