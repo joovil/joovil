@@ -11,7 +11,15 @@ Project made for full stack open 22
   <img src="https://i.imgur.com/3VdnnUy.png" width=500px>
 </kbd>
 > Note: Work in progress
-> <br>
+<br>
+
+## [Trainer](https://github.com/JoonasMV/Trainer)
+An app to track workouts
+<br>
+<kdp>
+  <img src="https://cdn.discordapp.com/attachments/1017362290447749130/1082375455551787149/workout.JPG" width=500px>
+</kdp>
+<br>
 
 ## [Ast3drois](https://tenguknight.itch.io/ast3drois) 
 Game project made in Unity
