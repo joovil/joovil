@@ -30,7 +30,7 @@ Game project made in Unity
 > Note: Not originally made for browser
 <br>
 
-## Diner simulator
+## [Diner simulator](https://github.com/JoonasMV/SimulaatioProjekti)
 Project to simulate traffic flow of a diner
 <br>
 <kbd>
