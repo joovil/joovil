@@ -1,11 +1,11 @@
 Hello, my name is Joonas. <br>
-Currently a second year student at Metropolia. <br> 
-Main languages are JavaScript and Java. <br>
+Currently third year student at Metropolia. <br> 
+Mainly doing full stack projects with JavaScript. I also have experience with coding in Java<br>
 <br>
 Here are some of my past projects
 
 ## [Blogster](https://blogster.fly.dev/)
-Project made for full stack open 22
+Project made for full stack open 22. **Currently under update so the site isn't working**
 <br>
 <kbd>
   <img src="https://i.imgur.com/3VdnnUy.png" width=500px>
