@@ -1,61 +1,41 @@
-# Introduction
+# Hey, wassup, hello
 
-Hello, my name is Joonas. Final year software engineering student at Metropolia. <br>
-<br>
-Doing full stack development with TypeScript and React. I have experience with designing and creating great looking and user friendly front ends using React and libraries such as Tailwind. I have created back ends with frameworks such as Express and NextJS that have included REST APIs to connect both sides of my projects together. <br>
-<br>
-Additionally I also know Java, Python, Docker, SQL, database design and how to deploy completed full stack applications. <br>
-<br>
+Final year software engineering student at Metropolia specializing in full stack development with TypeScript and React.<br>
 
-## Here are some of my past projects
+## Skills
+<ul>
+  <li>TypeScript / JavaScript</li>
+  <li>React</li>
+  <li>Next.js</li>
+  <li>PostgreSQL</li>
+  <li>Tailwind</li>
+  <li>Rust</li>
+  <li>Java</li>
+  <li>Python</li>
+  <li>Linux</li>
+  <li>Figma</li>
+  <li>Jest</li>
+  <li>Project deployment</li>
+</ul>
 
-# [Vehkavaraus](https://www.vehkavaraus.fi/)
-### Rental service and tenant committee tool
-<kdp>
-  <img src="https://raw.githubusercontent.com/joovil/vehkavaraus/f7b317cbf8769c4993d34ba277b20a1b24a4079e/public/icons/vehka_horizontal_pink.svg" width=500px>
-</kdp>
+## Finished projects
 
-#### Full stack app created with NextJS and hosted on vercel
+### [Vehkavaraus](https://www.vehkavaraus.fi/)
+<img src="https://raw.githubusercontent.com/joovil/vehkavaraus/f7b317cbf8769c4993d34ba277b20a1b24a4079e/public/icons/vehka_horizontal_pink.svg" width=300px>
 
-Website made so our tenant committee can track the borrowing of board games that got expanded so it now includes tools to help with our workflow.
+Website to rent communal items in our apartment complex. Created with Next.js and hosted on Vercel.
 
-# [Trainer](https://github.com/joovil/Trainer)
-### Workout tracker
-<kdp>
-  <img src="https://i.imgur.com/tD4cHl7.jpeg" height=500px>
-</kdp>
+### [Trainer](https://github.com/joovil/Trainer)
+<img src="https://i.imgur.com/tD4cHl7.jpeg" height=300px>
 
-#### Android app made with Java.
+Full stack Android application developed with Java for tracking and saving workouts. The app includes social features to share workouts and workout programs with other users.
 
-User data gets saved to a PostgreSQL database trough [Trainer-API](https://github.com/ollivarila/Trainer-API). 
-The app includes premade workouts for the user to choose from. Users also have the ability to create their own workout plans and share them with others.
-Progress can be tracked with graphs which are created from past workouts.
- > Servers have been shutdown
-<br>
+### [Ast3drois](https://tenguknight.itch.io/ast3drois)
+<img src="https://img.itch.zone/aW1hZ2UvMTQyNjU4MC84MzEzNjM2LnBuZw==/original/QVum91.png" width=300px>
 
-# [Ast3drois](https://tenguknight.itch.io/ast3drois) 
-### Space shooter
-<br>
-<kbd>
-  <img src="https://img.itch.zone/aW1hZ2UvMTQyNjU4MC84MzEzNjM2LnBuZw==/original/QVum91.png" width=500px>
-</kbd>
+Unity game written in C# inspired by asteroids. Game loop includes shooting different shaped asteroids which split to smaller pieces and collecting powerups.
 
-#### Unity game written in C#
+### [Diner simulator](https://github.com/joovil/SimulaatioProjekti)
+<img src="https://i.imgur.com/7LoZN5w.png" width=300px>
 
-Space shooter inspired by asteroids. Game loop includes shooting different shaped asteroids which split to smaller pieces and collecting powerups.
-
-> Browser version can be found by clicking the image
-<br>
-
-# [Diner simulator](https://github.com/joovil/SimulaatioProjekti)
-### Simulator
-<br>
-<kbd>
-  <img src="https://i.imgur.com/7LoZN5w.png" width=500px>
-</kbd>
-
-#### Simulator writtten in Java
-
-Simulator to simulate the traffic flow of a diner. The parameters given to the simulator can be fully customized. Includes a graphical interface and the created data gets saved to a SQL database.
-
-<br>
+Simulator written in Java to simulate the traffic flow of a diner. The parameters given to the simulator can be fully customized. Includes a graphical interface and the created data gets saved to a SQL database.
